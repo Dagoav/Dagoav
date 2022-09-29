@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning c++ and Vue js
 - 👯 I’m looking to collaborate on frontend and backend porjects (python, node and react)
 
+### Contact me!
+- :mailbox: dga500@hotmail.com
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/daniel-gonzalez-avila-75770b234)
+&nbsp;
 <br/>
 
 
