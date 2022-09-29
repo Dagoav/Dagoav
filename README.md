@@ -1,8 +1,8 @@
 ### Hi there `I'm Daniel` 👋 
-![Header](./[Your header image])
+![Header](./github-header-image.png)
 
 
-- 🔭 I’m currently working on ... I'm looking for Job =)
+- 🔭 I’m currently working on ... I'm looking for Job
 - 🌱 I’m currently learning c++ and Vue js
 - 👯 I’m looking to collaborate on frontend and backend porjects (python, node and react)
 
