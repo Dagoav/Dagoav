@@ -6,7 +6,7 @@ like the software I like to work on myself as a version now I am on my version 3
 
 - 🔭 I’m currently working on ... I'm looking for Job
 - 🌱 I’m currently learning c++ and Vue js
-- 👯 I’m looking to collaborate on frontend and backend porjects (python, node and react)
+- 👯 I’m looking to collaborate on frontend and backend projects (python, node and react)
 
 ### Contact me!
 - :mailbox: dga500@hotmail.com
